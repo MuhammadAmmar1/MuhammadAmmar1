@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER_LINK" width="100%" />
+<img src="[YOUR_BANNER_LINK](https://github.com/MuhammadAmmar1/MuhammadAmmar1/blob/main/ChatGPT%20Image%20May%2024%2C%202026%2C%2012_33_28%20AM.png)" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Ammar</h1>
 <h3 align="center">Full Stack Developer | React & Next.js Developer | UI/UX Enthusiast</h3>
