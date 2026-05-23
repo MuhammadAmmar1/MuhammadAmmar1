@@ -86,11 +86,11 @@ A complete full-stack healthcare management system designed to digitize hospital
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: :contentReference[oaicite:0]{index=0}  
-- 🌍 Portfolio: :contentReference[oaicite:1]{index=1}  
-- 📧 Email: muhammadammar5740@gmail.com  
-- 📱 WhatsApp: https://wa.me/+923128831015  
-- 📸 Instagram: :contentReference[oaicite:2]{index=2}  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-ammar-ba880a
+- 🌍 Portfolio: https://ammar-portfolio5.vercel.app
+- 📧 Email: muhammadammar5740@gmail.com
+- 📱 WhatsApp: https://wa.me/+923128831015?text=
+- 📸 Instagram: https://www.instagram.com/muhammadammar.official/
 
 ---
 
