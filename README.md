@@ -1,19 +1,21 @@
+<img src="YOUR_BANNER_LINK" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Muhammad Ammar</h1>
 <h3 align="center">Full Stack Developer | React & Next.js Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  Passionate Full Stack Developer with 3+ years of experience building scalable, responsive, and modern web applications.
+  Full Stack Developer with 3+ years of experience building scalable, responsive, and production-ready web applications using modern technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with expertise in modern web technologies
+- 💻 Full Stack Developer with 3+ years of hands-on experience
 - ⚛️ Specialized in React.js, Next.js, Node.js, Laravel & MySQL
-- 🎨 Experienced in Graphic Designing & Video Editing
-- 🤖 Interested in AI-powered applications & SaaS products
-- 🌱 Currently improving advanced backend architecture & cloud deployment
+- 🎨 Strong background in UI/UX Design, Graphic Designing & Video Editing
+- 🤖 Passionate about AI-powered systems, SaaS products & automation
+- 🌱 Continuously improving system design, backend architecture & cloud deployment
 - 📍 Based in Pakistan
 
 ---
@@ -35,7 +37,7 @@
 - Laravel
 - PHP
 
-### Database
+### Databases
 - MySQL
 - MongoDB
 
@@ -49,23 +51,25 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### 🏥 AI-Driven Smart Healthcare Ecosystem
-A modern healthcare platform featuring:
-- Smart Doctor Appointment System
-- Online Blood Bank Management
-- AI Medical Report Analyzer
-- AI Healthcare Chatbot
+A complete full-stack healthcare management system designed to digitize hospital operations and improve patient experience.
 
-**Tech Used:** React.js, Node.js, Express.js, MySQL, AI/NLP APIs
+**Key Features:**
+- Smart Doctor Appointment System
+- Online Blood Bank Management System
+- AI-based Medical Report Analyzer
+- Intelligent Healthcare Chatbot
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, AI/NLP APIs
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAmmar1&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
@@ -74,14 +78,26 @@ A modern healthcare platform featuring:
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Skills Overview
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-ammar-ba880a
-- 🌍 Portfolio: https://ammar-portfolio5.vercel.app
-- 📧 Email: muhammadammar5740@gmail.com
-- 📱 WhatsApp: https://wa.me/+923128831015?text=
-- 📸 Instagram: https://www.instagram.com/muhammadammar.official/
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,php,mysql,mongodb,git,figma)](https://skillicons.dev)
 
 ---
 
-⭐ “Building scalable digital experiences with clean code & modern design.”
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: :contentReference[oaicite:0]{index=0}  
+- 🌍 Portfolio: :contentReference[oaicite:1]{index=1}  
+- 📧 Email: muhammadammar5740@gmail.com  
+- 📱 WhatsApp: https://wa.me/+923128831015  
+- 📸 Instagram: :contentReference[oaicite:2]{index=2}  
+
+---
+
+## 👨‍💻 Closing Statement
+
+> “Building scalable, efficient, and modern digital experiences with clean architecture and strong user focus.”
+
+---
+
+<img src="YOUR_BANNER_LINK" width="100%" />
