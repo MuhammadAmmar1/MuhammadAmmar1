@@ -69,7 +69,7 @@ A modern healthcare platform featuring:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAmmar1" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ A modern healthcare platform featuring:
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-ammar-ba880a
-- 🌍 Portfolio: https://ammar1.netlify.app/
+- 🌍 Portfolio: https://ammar-portfolio5.vercel.app
 - 📧 Email: muhammadammar5740@gmail.com
 - 📱 WhatsApp: https://wa.me/+923128831015?text=
 - 📸 Instagram: https://www.instagram.com/muhammadammar.official/
