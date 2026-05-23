@@ -99,5 +99,3 @@ A complete full-stack healthcare management system designed to digitize hospital
 > “Building scalable, efficient, and modern digital experiences with clean architecture and strong user focus.”
 
 ---
-
-<img src="YOUR_BANNER_LINK" width="100%" />
